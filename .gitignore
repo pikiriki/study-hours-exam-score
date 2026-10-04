@@ -7,4 +7,5 @@ __pycache__/
 
 # Keep datasets out of Git until redistribution permission is checked.
 *.csv
+!/study_hours_scores_regression.csv
 *.zip
