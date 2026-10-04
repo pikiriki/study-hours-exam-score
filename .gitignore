@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
+.env.*
+.venv/
+
+# Keep datasets out of Git until redistribution permission is checked.
+*.csv
+*.zip
